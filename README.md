@@ -1,1 +1,2 @@
-# yolo_projects_1
+# YOLO Projects 1
+* This repo has projects using YOLO
